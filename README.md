@@ -14,3 +14,5 @@ _runtime: 20 ms; memory usage: 6.1 MB_
 _runtime: 24 ms; memory usage: 8.1 MB_  
 * Valid Parentheses: https://leetcode.com/problems/valid-parentheses/  
 _runtime: 0 ms; memory usage: 6.3 MB_  
+* Remove Duplicated From Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/  
+_runtime: 16 ms; memory usage: 13.8 MB_  
