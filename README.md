@@ -3,12 +3,14 @@ Src: https://leetcode.com/problems/ - perfect for practice algorithm.
 
 ### problem's links:
 * Reverse Integer: https://leetcode.com/problems/reverse-integer/  
-runtime: 0-4 ms; memory usage: 5.9 MB
+_runtime: 0-4 ms; memory usage: 5.9 MB_
 * Add Two Number: https://leetcode.com/problems/add-two-numbers/  
-runtime: 32 ms; memory usage: 70.3 MB  
+_runtime: 32 ms; memory usage: 70.3 MB_  
 * Longest Substring Without Repeating Characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/  
-runtime: 1864 ms; memory usage: 141 MB  
+_runtime: 1864 ms; memory usage: 141 MB_  
 * Palindrome Number: https://leetcode.com/problems/palindrome-number/  
-runtime: 20 ms; memory usage: 6.1 MB  
+_runtime: 20 ms; memory usage: 6.1 MB_  
 * Roman To Integer: https://leetcode.com/problems/roman-to-integer/  
-runtime: 24 ms; memory usage: 8.1 MB
+_runtime: 24 ms; memory usage: 8.1 MB_  
+* Valid Parentheses: https://leetcode.com/problems/valid-parentheses/  
+_runtime: 0 ms; memory usage: 6.3 MB_  
