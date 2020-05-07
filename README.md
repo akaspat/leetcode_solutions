@@ -16,3 +16,5 @@ _runtime: 24 ms; memory usage: 8.1 MB_
 _runtime: 0 ms; memory usage: 6.3 MB_  
 * Remove Duplicated From Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/  
 _runtime: 16 ms; memory usage: 13.8 MB_  
+* Merge Two Sorted List: https://leetcode.com/problems/merge-two-sorted-lists/  
+_runtime: 4 ms; memory usage: 14.6 MB_  
