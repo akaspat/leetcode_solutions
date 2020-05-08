@@ -18,3 +18,5 @@ _runtime: 0 ms; memory usage: 6.3 MB_
 _runtime: 16 ms; memory usage: 13.8 MB_  
 * Merge Two Sorted List: https://leetcode.com/problems/merge-two-sorted-lists/  
 _runtime: 4 ms; memory usage: 14.6 MB_  
+* Search Insert Position: https://leetcode.com/problems/search-insert-position/  
+_runtime: 8ms; memory usage: 9.6 MB_  
