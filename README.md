@@ -20,3 +20,6 @@ _runtime: 16 ms; memory usage: 13.8 MB_
 _runtime: 4 ms; memory usage: 14.6 MB_  
 * Search Insert Position: https://leetcode.com/problems/search-insert-position/  
 _runtime: 8ms; memory usage: 9.6 MB_  
+* Sqrt(x): https://leetcode.com/problems/sqrtx/  
+_runtime: 4 ms; memory usage: 6.1 MB_  
+_useful links: http://algolist.manual.ru/maths/count_fast/intsqrt.php_  
