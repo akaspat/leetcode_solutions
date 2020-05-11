@@ -23,3 +23,5 @@ _runtime: 8ms; memory usage: 9.6 MB_
 * Sqrt(x): https://leetcode.com/problems/sqrtx/  
 _runtime: 4 ms; memory usage: 6.1 MB_  
 _useful links: http://algolist.manual.ru/maths/count_fast/intsqrt.php_  
+* Length of last word: https://leetcode.com/problems/length-of-last-word/  
+_runtime: 4 ms; memory usage: 6.5 MB_  
