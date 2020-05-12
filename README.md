@@ -25,3 +25,5 @@ _runtime: 4 ms; memory usage: 6.1 MB_
 _useful links: http://algolist.manual.ru/maths/count_fast/intsqrt.php_  
 * Length of last word: https://leetcode.com/problems/length-of-last-word/  
 _runtime: 4 ms; memory usage: 6.5 MB_  
+* Plus One: https://leetcode.com/problems/plus-one/  
+_runtime: 4 ms; memory usage: 8.9 MB_  
