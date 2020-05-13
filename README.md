@@ -27,3 +27,5 @@ _useful links: http://algolist.manual.ru/maths/count_fast/intsqrt.php_
 _runtime: 4 ms; memory usage: 6.5 MB_  
 * Plus One: https://leetcode.com/problems/plus-one/  
 _runtime: 4 ms; memory usage: 8.9 MB_  
+* String To Integer (atoi): https://leetcode.com/problems/string-to-integer-atoi/   
+_runtime: 4 ms; memory usage: 6.2 MB_  
