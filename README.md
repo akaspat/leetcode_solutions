@@ -29,3 +29,6 @@ _runtime: 4 ms; memory usage: 6.5 MB_
 _runtime: 4 ms; memory usage: 8.9 MB_  
 * String To Integer (atoi): https://leetcode.com/problems/string-to-integer-atoi/   
 _runtime: 4 ms; memory usage: 6.2 MB_  
+* Climbing Stairs: https://leetcode.com/problems/climbing-stairs/submissions/  
+_runtime: 0 ms; memory usage: 6.3 MB_  
+_useful links: https://en.wikipedia.org/wiki/Fibonacci_number_   
