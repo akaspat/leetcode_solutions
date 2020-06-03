@@ -32,3 +32,5 @@ _runtime: 4 ms; memory usage: 6.2 MB_
 * Climbing Stairs: https://leetcode.com/problems/climbing-stairs/submissions/  
 _runtime: 0 ms; memory usage: 6.3 MB_  
 _useful links: https://en.wikipedia.org/wiki/Fibonacci_number_   
+* Remove Duplicates From Sorted List: https://leetcode.com/problems/remove-duplicates-from-sorted-list/  
+_runtime: 8 ms; memory usage: 11.2 MB;_  
