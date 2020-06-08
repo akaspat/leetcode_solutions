@@ -36,3 +36,5 @@ _useful links: https://en.wikipedia.org/wiki/Fibonacci_number_
 _runtime: 8 ms; memory usage: 11.2 MB;_  
 * Remove Element: https://leetcode.com/problems/remove-element/  
 _runtime: 4 ms; memory usage: 9 MB;_  
+* Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/  
+_runtime: 4ms; memory usage: 9 MB;_  
