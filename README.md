@@ -38,3 +38,6 @@ _runtime: 8 ms; memory usage: 11.2 MB;_
 _runtime: 4 ms; memory usage: 9 MB;_  
 * Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/  
 _runtime: 4ms; memory usage: 9 MB;_  
+* Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/  
+(iteratively) _runtime: 16 ms; memory usage: 8.4 MB_  
+(recursively) in progress...
