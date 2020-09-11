@@ -1,5 +1,6 @@
 class Solution {
-public:    
+public:  
+    // 1st var of solutions
     int removeDuplicates(vector<int>& nums) {
         if (nums.size() == 0)
             return 0;
@@ -18,6 +19,22 @@ public:
         
         nums.resize(index);
         
+        return nums.size();
+    }
+    // 2nd var of solutions
+    int removeDuplicates(vector<int>& nums) {       
+        vector<int>::iterator cur = nums.begin();
+        int prevValue;
+        
+        while (cur != nums.end()){
+            if (*cur == prevValue){
+                cur = nums.erase(cur);
+            }
+            else{
+                prevValue = *cur;
+                cur++;
+            }
+        }
         return nums.size();
     }
 };
