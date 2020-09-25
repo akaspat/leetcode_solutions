@@ -41,3 +41,5 @@ _runtime: 4ms; memory usage: 9 MB;_
 * Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/  
 (iteratively) _runtime: 16 ms; memory usage: 8.4 MB_  
 (recursively) in progress...
+* Kids With the Greatest Number of Candies: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/  
+_runtime: 4ms; memory_usage: 9.1 MB;_  
