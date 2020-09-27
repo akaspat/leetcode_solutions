@@ -43,3 +43,5 @@ _runtime: 4ms; memory usage: 9 MB;_
 (recursively) in progress...
 * Kids With the Greatest Number of Candies: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/  
 _runtime: 4ms; memory_usage: 9.1 MB;_  
+* Pascal's Trange: https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/  
+_runtime: 0ms; memory_usage: 6.8 MB_  
