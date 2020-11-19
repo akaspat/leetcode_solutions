@@ -47,3 +47,5 @@ _runtime: 4ms; memory_usage: 9.1 MB;_
 _runtime: 0ms; memory_usage: 6.8 MB;_  
 * Delete Node in a Linked List: https://leetcode.com/problems/delete-node-in-a-linked-list/  
 _runtime: 12ms; memory usage: 7.9MB;_  
+* Design Linked List: _https://leetcode.com/problems/design-linked-list/_  
+_runtime: 48 ms; memory usage: 19.9 MB;_  
